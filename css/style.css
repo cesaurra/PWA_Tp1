@@ -1,0 +1,84 @@
+/*Paleta de colores
+Trending color palettes 
+https://coolors.co/palette/006ba6-0496ff-ffbc42-d81159-8f2d56
+*/
+
+
+.errCiudad {
+  width: 280px;
+}
+
+/*-------- TEXTOS --------*/
+.hh {
+    color: #8F2D56;
+    font-family: 'Forte',  sans-serif;
+    font-size: 3rem;
+  }
+
+  .hh2 {
+    color: #FFBC42;
+    font-size: 3em;
+  }
+
+  
+  
+  .p1 {
+    color: #006BA6;
+    font-family: 'Forte',  sans-serif;
+    font-weight: bold;
+  }
+
+  .p2 {
+    color: #8F2D56;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+
+  .bot {
+    background-color: #8F2D56;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #ffffff;
+  }
+
+  .bod {
+    background-color:#FFBC42;
+  }
+
+  .pie {
+    background-color:#FFBC42;
+    color: #8F2D56;
+    font-weight: bold;
+    font-size: 1.1rem;
+  }
+
+  .fondo {
+    background-image: url("./../img/fondoClima2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+
+
+  /*-------- VIDEO e IMAGENES --------*/
+  .icon {
+    width: 150px;
+    border-color: black;
+  }
+
+
+  #video{
+    display: none;
+  }
+  
+  #video iframe{
+    max-width: 90%;
+  }
+
+  .mapa {
+    max-width: 30rem;
+  }
+
+  #mapa {
+    display: none;
+  }
